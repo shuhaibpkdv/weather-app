@@ -35,6 +35,10 @@
   padding: 10px 20px;
 }
 
+.place-input:focus {
+  outline: none;
+}
+
 .place-search-btn {
   background-color: white;
   border: none;
