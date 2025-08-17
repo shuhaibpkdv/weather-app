@@ -64,3 +64,9 @@
 
   padding-bottom: 15px;
 }
+
+@media (max-width : 601px) {
+  .weather-container{
+    width: 275px;
+  }
+}
